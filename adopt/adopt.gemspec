@@ -5,7 +5,11 @@ require "adopt/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "adopt"
+<<<<<<< HEAD:adopt/adopt.gemspec
   spec.version       = Adopt::VERSION
+=======
+  spec.version       = DogAdoptionCli::VERSION
+>>>>>>> c6c3e130dc22c6d8ccd1c5d73ccde9a6d4209559:adopt/adopt.gemspec
   spec.authors       = ["'Jebediah Elliott'"]
   spec.email         = ["'jebediahelliott@gmail.com'"]
 
